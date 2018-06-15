@@ -1,0 +1,11 @@
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\bin\Debug\netcoreapp2.0\SassPractice.deps.json
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\bin\Debug\netcoreapp2.0\SassPractice.runtimeconfig.json
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\bin\Debug\netcoreapp2.0\SassPractice.runtimeconfig.dev.json
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\bin\Debug\netcoreapp2.0\SassPractice.dll
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\bin\Debug\netcoreapp2.0\SassPractice.pdb
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\obj\Debug\netcoreapp2.0\SassPractice.csprojResolveAssemblyReference.cache
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\obj\Debug\netcoreapp2.0\SassPractice.csproj.CoreCompileInputs.cache
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\obj\Debug\netcoreapp2.0\SassPractice.AssemblyInfoInputs.cache
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\obj\Debug\netcoreapp2.0\SassPractice.AssemblyInfo.cs
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\obj\Debug\netcoreapp2.0\SassPractice.dll
+\\PRLFS01\Users\katie.saldivar\My Documents\SassPractice\SassPractice\obj\Debug\netcoreapp2.0\SassPractice.pdb

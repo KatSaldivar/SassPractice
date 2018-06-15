@@ -1,0 +1,88 @@
+﻿@import "_variables.scss";
+@import "_mixins.scss";
+@import "_chaining.scss";
+
+.button {
+    color: white;
+    text-align: center;
+    font-size: 48pt;
+    width: 200px;
+    height: 100px;
+    line-height: 100px;
+    @include border-radius-vendor(10px);
+}
+
+.yes {
+    @extend .button;
+    background-color: #00ff00;
+}
+
+.no {
+    @extend .button;
+    background-color: #ff0000;
+}
+
+.cancel {
+    @extend .button;
+    background-color: #cec0b8;
+}
+
+ul.contacts {
+    background-color: green;
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.contacts li article {
+    border: solid 5px;
+    background-color: #ff5e00;
+    margin-bottom: 10px;
+    padding: 10px;
+
+    li {
+        article {
+            border: solid 5px;
+            background-color: #ff5e00;
+            margin-bottom: 10px;
+            padding: 10px;
+
+            header {
+                font-style: italic;
+            }
+
+            padding {
+                color: white;
+            }
+        }
+    }
+}
+
+body {
+    color: $notDefined;
+    background-color: $col;
+    font-size: $base-font-size;
+}
+
+h1 {
+    color: $primary-brand-color;
+}
+
+.lead-text {
+    color: $primary-brand-color;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.primary-button {
+    @include standard-button($important-action-color);
+    @include border-radius-vendor(20px);
+}
+
+.secondary-button {
+    @include standard-button($secondary-action-color);
+}
+
+/*
+@debug "Sass is awesome!";
+@warn "Custom warning";
+    */
